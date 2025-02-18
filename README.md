@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Kapil Tayde  
+🚀 **Validation Engineer | Aspiring Data Engineer | Python & SQL Enthusiast**  
 
-<!--
-**KapilTayde/KapilTayde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **About Me:**  
+- 💻 2.8+ years of experience in Validation Engineering  
+- 📊 Learning Data Engineering (Python, SQL, ETL)  
+- 🎯 Currently working on real-world freelancing projects  
 
-Here are some ideas to get you started:
+🔹 **Tech Skills:**  
+- ✅ Python | SQL | MySQL | PostgreSQL  
+- ✅ Data Engineering | ETL Pipelines | Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **📬 Connect with Me:**  
+[LinkedIn](https://www.linkedin.com/in/kapil-tayde-068103151/) | [GitHub](https://github.com/KapilTayde/KapilTayde)
